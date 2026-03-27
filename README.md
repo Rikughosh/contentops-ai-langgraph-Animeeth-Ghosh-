@@ -1,1 +1,2 @@
-# contentops-ai-langgraph-Animeeth-Ghosh-
+# ContentOps AI
+Run: streamlit run ui/app.py
